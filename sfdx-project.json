@@ -2,11 +2,15 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "S_Aug22a"
     }
   ],
   "name": "21augPkg",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0"
+  "sourceApiVersion": "52.0",
+  "packageAliases": {
+    "S_Aug22a": "0Ho5i000000XZgsCAG"
+  }
 }

@@ -1,18 +1,26 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true,
-      "package": "S_Aug22a",
-      "versionName": "ver 0.1",
-      "versionNumber": "0.1.0.NEXT"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "S_Aug22a",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "S_23Auga",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "name": "21augPkg",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "S_Aug22a": "0Ho5i000000XZgsCAG",
+        "S_23Auga": "0Ho5i000000XZhHCAW"
     }
-  ],
-  "name": "21augPkg",
-  "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "52.0",
-  "packageAliases": {
-    "S_Aug22a": "0Ho5i000000XZgsCAG"
-  }
 }

@@ -3,7 +3,9 @@
     {
       "path": "force-app",
       "default": true,
-      "package": "S_Aug22a"
+      "package": "S_Aug22a",
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT"
     }
   ],
   "name": "21augPkg",
